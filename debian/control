@@ -9,6 +9,7 @@ Homepage: http://sipwise.com/
 Package: ngcp-sems-prompts
 Architecture: all
 Replaces: ngcp-sems-prompts-fr, ngcp-sems-prompts-en, ngcp-sems-prompts-es
+Conflicts: ngcp-sems-prompts-fr, ngcp-sems-prompts-en, ngcp-sems-prompts-es
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Audio prompts for ngcp-sems package
  Core sounds for ngcp-sems package
