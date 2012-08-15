@@ -1,15 +1,15 @@
 Source: ngcp-sems-prompts
 Section: comm
 Priority: extra
-Maintainer: Jon Bonilla <jbonilla@sipwise.com>
+Maintainer: Sipwise Development Team <support@sipwise.com>
 Build-Depends: debhelper (>= 5)
-Standards-Version: 3.8.4
+Standards-Version: 3.9.3
 Homepage: http://sipwise.com/
 
 Package: ngcp-sems-prompts
 Architecture: all
-Replaces: ngcp-sems-prompts-fr, ngcp-sems-prompts-en, ngcp-sems-prompts-es
-Conflicts: ngcp-sems-prompts-fr, ngcp-sems-prompts-en, ngcp-sems-prompts-es
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Replaces: ngcp-sems-prompts-en, ngcp-sems-prompts-es, ngcp-sems-prompts-fr
+Conflicts: ngcp-sems-prompts-en, ngcp-sems-prompts-es, ngcp-sems-prompts-fr
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Audio prompts for ngcp-sems package
  Core sounds for ngcp-sems package

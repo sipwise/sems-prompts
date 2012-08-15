@@ -1,3 +1,16 @@
+ngcp-sems-prompts (0.3.1) unstable; urgency=low
+
+  [ mprokop ]
+  * control: Set maintainer field to new default
+  * control: Bump Standards-Version to 3.9.3
+
+
+  [ jbonilla ]
+  * control: Add "replaces" header
+  * control: Add conflicts control header 
+
+ -- Jon Bonilla <jbonilla@sipwise.com>  Wed, 15 Aug 2012 21:22:42 +0200
+
 ngcp-sems-prompts (0.3.0) unstable; urgency=low
 
   * Merge all language packages
