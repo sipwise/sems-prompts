@@ -534,6 +534,24 @@ written agreement of the Licensor and You.
 
 It was downloaded from <http://www.voipnovatos.es/voces/>
 
+Files: wav-it/*
+Copyright: 2006-2011, Marco Menardi.e Paola Dal Zot (?the voice?) ?
+License: CC-SA-BY-3.0
+Comment:
+ The license is Creative Commons Attribution Share Alike 3.0 Italian.
+ .
+ The above is copied literraly from the top of the LICENSE file:
+ .
+ I file di mesaggi ('voci') qui distribuiti sono Copyright (C) 2006-2011
+ di Marco Menardi e Paola Dal Zot, e sono distribuiti secondo i termini della seguente licenza.
+ Per ulteriori informazioni, o per acquistare messaggi personalizzati, visitare:
+ http://www.voip.ammdomus.it
+ Il testo inglese dei messaggi, da cui è derivata la traduzione italiana, è invece Copyright della Digium (http://www.digium.com).
+ .
+ ATTENZIONE:
+ La mia condizione per l'attribuzione è: in caso di distribuzione sia riportato in maniera visibile all'utilizzatore finale l'indicazi
+one che i file sonori sono stati fatti da me e mia moglie, e l'url del sito da dove eventualmente scaricarli (e quindi trovare gli aggiornamenti) o richiedere nuove voci (http://www.voip.ammdomus.it).
+
 
 Files: *
 Upstream Author: The Sipwise Team - http://sipwise.com

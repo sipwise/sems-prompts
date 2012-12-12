@@ -29,11 +29,13 @@ install: build
 	dh_clean -k
 	dh_installdirs	/usr/lib/sems/audio/fr \
 			/usr/lib/sems/audio/es \
-			/usr/lib/sems/audio/en
+			/usr/lib/sems/audio/en \
+			/usr/lib/sems/audio/it
 
 	install -m 644 wav-fr/* debian/ngcp-sems-prompts/usr/lib/sems/audio/fr/
 	install -m 644 wav-es/* debian/ngcp-sems-prompts/usr/lib/sems/audio/es/
 	install -m 644 wav-en/* debian/ngcp-sems-prompts/usr/lib/sems/audio/en/
+	install -m 644 wav-it/* debian/ngcp-sems-prompts/usr/lib/sems/audio/it/
 
 # Build architecture-dependent files here.
 binary-arch: build install
