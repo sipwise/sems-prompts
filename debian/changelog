@@ -1,3 +1,9 @@
+ngcp-sems-prompts (0.4.0+0~mr3.2.1) unstable; urgency=low
+
+  * New release.
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Sat, 01 Feb 2014 19:58:46 +0100
+
 ngcp-sems-prompts (0.4.0) unstable; urgency=low
 
   * Add italian prompts.
