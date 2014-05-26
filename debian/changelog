@@ -1,3 +1,12 @@
+ngcp-sems-prompts (0.6.0.0+0~mr3.4.0.0) unstable; urgency=low
+
+  [ Michael Prokop ]
+  * [826e46d] MT#6511 Bump Standards-Version to 3.9.5
+
+  [ Sipwise Jenkins Builder ]
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Mon, 26 May 2014 16:02:35 +0200
+
 ngcp-sems-prompts (0.5.0.0+0~mr3.3.0.0) unstable; urgency=low
 
   * New release.
