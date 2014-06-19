@@ -1,3 +1,9 @@
+ngcp-sems-prompts (0.5.2.0+0~mr3.3.2.0) unstable; urgency=low
+
+  * New release.
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Thu, 19 Jun 2014 07:35:33 +0200
+
 ngcp-sems-prompts (0.5.1.0+0~mr3.3.1.0) unstable; urgency=low
 
   [ Michael Prokop ]
