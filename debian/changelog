@@ -1,3 +1,12 @@
+ngcp-sems-prompts (0.6.1.0+0~mr3.4.1.0) unstable; urgency=low
+
+  [ Victor Seva ]
+  * [2ab50a7] MT#7349 MT#7141 update packaging to 3.0 style. Use new ngcp-sems dir
+
+  [ Sipwise Jenkins Builder ]
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Thu, 10 Jul 2014 15:38:39 +0200
+
 ngcp-sems-prompts (0.6.0.0+0~mr3.4.0.0) unstable; urgency=low
 
   [ Michael Prokop ]
